@@ -1,5 +1,5 @@
 # Field Pack Name (Version)
-*__NOTE TO CONTRIBUTORS:__ Items marked in italics (*) provide how-to guidance in creating this file.  These comments should be removed once proper content has been added.  Other non-italicized text should remain in this file as boilerplate text.*
+*__NOTE TO CONTRIBUTORS:__ Items marked in italics provide how-to guidance in creating this file.  These comments should be removed once proper content has been added.  Other non-italicized text should remain in this file as boilerplate text.*
 
 
 # Description
